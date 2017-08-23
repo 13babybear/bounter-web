@@ -1,9 +1,11 @@
 # bounter-web
-Java后端Web层常用技术整合  
+封装Web层常用的一些公共功能  
 
 **Filter**
 - 跨站脚本攻击XSS和SQL注入过滤器
 - 跨域请求伪造CSRF过滤器
+- Token过滤器
+
 
 **Listener**
 - 系统上下文初始化监听器
